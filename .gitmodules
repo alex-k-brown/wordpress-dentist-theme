@@ -1,0 +1,3 @@
+[submodule "liftstarter"]
+	path = liftstarter
+	url = https://github.com/liftmedia/liftstarter.git
